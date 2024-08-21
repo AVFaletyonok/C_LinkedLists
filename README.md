@@ -30,12 +30,12 @@ struct oneLinkList* CloneOneLinkList(struct oneLinkList* resultList,
 - .3. Intersect two single linked lists.
 ```c
 struct oneLinkList* IntersectOneLinkLists(struct oneLinkList* firstList,
-					struct oneLinkList* secondList);
+						struct oneLinkList* secondList);
 ```
 - .4. Substract two single linked lists.
 ```c
 struct oneLinkList* SubstractOneLinkLists(struct oneLinkList* firstList,
-					struct oneLinkList* secondList);
+						struct oneLinkList* secondList);
 ```
 - .5. Reverse single linked list.
 ```c
@@ -67,12 +67,12 @@ struct twoLinkList* CloneTwoLinkList(struct twoLinkList* resultList,
 - .3. Intersect two doubly linked lists.
 ```c
 struct twoLinkList* IntersectTwoLinkLists(struct twoLinkList* firstList,
-					struct twoLinkList* secondList);
+						struct twoLinkList* secondList);
 ```
 - .4. Substract two doubly linked lists.
 ```c
 struct twoLinkList* SubstractTwoLinkLists(struct twoLinkList* firstList,
-					struct twoLinkList* secondList);
+						struct twoLinkList* secondList);
 ```
 - .5. Reverse doubly linked list.
 ```c
@@ -105,12 +105,12 @@ struct twoLinkList* CloneCircleTwoLinkList(struct twoLinkList* resultList,
 - .3. Intersect two cyrcle linked lists.
 ```c
 struct twoLinkList* IntersectCircleTwoLinkLists(struct twoLinkList* firstList,
-					struct twoLinkList* secondList);
+						struct twoLinkList* secondList);
 ```
 - .4. Substract two cyrcle linked lists.
 ```c
 struct twoLinkList* SubstractCircleTwoLinkLists(struct twoLinkList* firstList,
-					struct twoLinkList* secondList);
+						struct twoLinkList* secondList);
 ```
 - .5. Reverse cyrcle linked list.
 ```c
