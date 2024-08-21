@@ -20,7 +20,7 @@ Single linked list (SLL) operations:
 - .1. Union two single linked lists.
 ```c
 struct oneLinkList* UnionOneLinkLists(struct oneLinkList* firstList,
-						struct oneLinkList* secondList);
+				struct oneLinkList* secondList);
 ```
 - .2. Clone two single linked lists.
 ```c
