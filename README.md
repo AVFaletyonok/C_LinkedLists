@@ -42,7 +42,7 @@ struct oneLinkList* SubstractOneLinkLists(struct oneLinkList* firstList,
 struct oneLinkList* ReverseOneLinkList(struct oneLinkList* list);
 ```
 
-## Chapter II. Implement doubly linked list [](#){name=chapter-ii-implement-doubly-linked-list}
+## Chapter II. Implement doubly linked list
 
 Doubly linked list (DLL) structure in C language:
 ```c
